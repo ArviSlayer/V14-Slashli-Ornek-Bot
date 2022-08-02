@@ -1,2 +1,2 @@
-# V14-Slashli-Ornek-Bot
-V14 - Slash Komutlu Örnek Bot
+# Kullanmaya Başlamadın Önce Şunu Yazın:
+npm i
